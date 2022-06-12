@@ -1,7 +1,6 @@
 <template>
   <div class="header">
-      <h1>TVD</h1>
-
+      <img src="../assets/tvd_logo.png">
   </div>
 </template>
 
@@ -16,9 +15,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  .header{
-    font-family:monospace;
-
-    font-size: 3em;
+  img{
+    max-height: auto;
+    width: 25%;
   }
 </style>

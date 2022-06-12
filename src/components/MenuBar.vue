@@ -31,6 +31,7 @@ export default {
     }
     .menuItem{
         text-align: center;
-        padding: 1em;
+        padding: 2em;
+        font-size: 1.7em;
     }
 </style>
